@@ -1,0 +1,31 @@
+_repo: The-Princess-Dehra_40034
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40034-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, John Reed
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '5842'
+    url: http://www.gutenberg.org/2009/agents/5842
+description: ''
+gutenberg_issued: '2012-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Americans -- Foreign countries -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Imaginary places -- Fiction'
+title: The Princess Dehra
+url: http://www.gutenberg.org/ebooks/40034
